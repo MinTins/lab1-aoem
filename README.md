@@ -7,7 +7,7 @@ Determination of computer system performance
 
 ## Timer result
 
-https://i.imgur.com/Nd9JtIR.png
+![Physycal computer test result](https://i.imgur.com/Nd9JtIR.png)
 
 •	Процесор: AMD Ryzen 5 4600H with Radeon Graphics 3.00 GHz
 
